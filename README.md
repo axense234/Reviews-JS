@@ -28,6 +28,8 @@ git clone https://github.com/axense234/Reviews-JS.git
 
 ## **Version History**
 
+- 0.3
+  - Analyzed the code to gather to-do tasks and made some small changes.
 - 0.2
   - Made the website looked better,rewrote the JS code to make it more efficient and clean
   - See [commit change](https://github.com/axense234/Reviews-JS/commits/master) or See [release history](https://github.com/axense234/Reviews-JS/releases)

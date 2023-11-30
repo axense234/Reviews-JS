@@ -19,6 +19,9 @@ const setReviewInfo = (id) => {
   descriptionElement.innerText = people[id].description;
 };
 
+// Setting up default values on the DOM
+setReviewInfo(4);
+
 // Random Button Functionality
 randomButton.addEventListener("click", () => {
   id = Math.floor(Math.random() * peopleLength);
